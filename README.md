@@ -1,10 +1,13 @@
-# Projelerim
+# Ben
 
-Bilgisayar mühendisliği öğrencisiyim. Web uygulamaları ve farklı alanlara yönelik yazılım projeleri geliştiriyorum. Kaynak kodlarını özel depolarda tuttuğum bazı projelerimin canlı sürümlerini burada paylaşıyorum.
+Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim. Web uygulamaları ve farklı alanlara yönelik yazılım projeleri geliştiriyorum. Kaynak kodlarını private repolarda tuttuğum bazı projelerimin canlı sürümlerini burada paylaşıyorum.
 
-## MiniGames
 
-Satranç, Wordle ve Battleship gibi oynamaktan hoşlandığım oyunları bir araya getirdiğim kişisel bir web projesi. Bunların yanında kendi 2D platform oyunumu da geliştiriyorum. Yeni oyunlar ve mekanikler ekleyerek üzerinde çalışmaya devam ettiğim, aynı zamanda kendim de kullandığım bir platform.
+### MiniGames
+
+Satranç, Wordle ve XOX gibi oynamaktan hoşlandığım oyunları bir araya getirdiğim kişisel bir web projesi. Socket.IO kullanarak arkadaşlarla gerçek zamanlı satranç ve XOX maçları oynanabilen bir sistem geliştirdim. Satrançta Stockfish'e karşı oynama, farklı süre kontrolleri, arkadaş sistemi ve maç geçmişi gibi özellikler bulunuyor. Bunların yanında kendi 2D platform oyunumu da geliştiriyor, siteye yeni oyunlar ve mekanikler eklemeye devam ediyorum.
+
+**[Siteyi Görüntüle](https://minigame-site-kagan-demo.vercel.app/)**
 
 **[Siteyi Görüntüle](MINIGAMES_URL)**
 
